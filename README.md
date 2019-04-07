@@ -1,4 +1,4 @@
-# Yibin-Li-Crypto-App-Test
+Cryptocurrency-App
 ## How to run this app
 1. Install Node.js
 2. Clone the repo
