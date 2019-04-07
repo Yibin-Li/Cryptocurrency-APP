@@ -1,6 +1,6 @@
 Cryptocurrency-App
 ## How to run this app
-1. Install Node.js
+1. Install npm
 2. Clone the repo
 3. Navigate terminal to this repo's directory, then run
 
